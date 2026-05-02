@@ -6,5 +6,5 @@
     "@semantic-release/npm",
     "@semantic-release/github"
   ],
-  "firstRelease": "0.1.0"
+  "firstRelease": "1.0.0"
 }
